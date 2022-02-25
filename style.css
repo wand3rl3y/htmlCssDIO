@@ -1,19 +1,54 @@
+body{
+    max-width: 900px;
+
+}
+
 .cor-azul {
-    color: blue;
+    color: black;
     font-size: 70px;
+    margin-left: 15px;
+    margin-bottom: 40px;
 }
 
 .secao-post {
     color: blue;
     font-size: 50px;
+    margin-left: 15px;
+    margin-bottom: 15px;
+    text-align: center;
 
 }
 
 .post1 {
-    color: black;
+    color:whitesmoke;
     font-size: 30px;
     font-family: monospace;
     font-style: italic;
 }
+.texto-inventado{
+    color: rgb(235, 236, 240);
+    font-size: 25px;
+    font-weight: bold;
+    
+}
 
+.artig {
+    background-color: rgb(40, 107, 184);
+    padding: 30px;
+    border: 4px solid rgb(212, 15, 15);
+    background-image: url(code.jpg);
+    border-radius: 10px;
+    
+}
+.imagen-guy {
+    border-radius: 50%;
+    border: 2px solid black;
+    max-width: 100px;
+    max-height: 100px;
+    margin-bottom: 15px;
+    
+}
+.hiper-texto {
+    color: aqua;
 
+}
